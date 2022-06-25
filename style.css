@@ -1,0 +1,82 @@
+*{
+    background-image: url(aryan.jpg);
+    background-repeat: no-repeat;
+    background-size: 250rem 223rem;
+}
+.p5{
+    text-align: left;
+    display: flex;
+}
+.p5 img{
+     border-radius: 1rem;
+     margin-left: 1rem;
+     margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+     
+}
+h1{
+    padding-left: 21rem;
+    padding-top: 1rem;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: bolder;
+    font-style: italic;
+    text-shadow: 6rem red;
+    letter-spacing: 0.5rem;
+    -webkit-text-stroke: 1px red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: underline;
+
+    
+}
+.p2{
+    text-align: center;
+    font-size: 1.5rem ;
+    font-style: italic;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.p3 img{
+    display:inline;
+    border-radius: 1rem;
+}
+h2{
+    padding-top: 0.50rem;
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: bold;
+    font-style: italic;
+    text-shadow: 4rem red;
+    -webkit-text-stroke: 1px red;
+    border-bottom: 0.2rem solid #241c1c;
+    border-top: 0.2rem solid #241c1c;
+}
+h3{
+    
+    font-weight: bold;
+    font-style: italic;
+    font-size: 1.5rem;
+}
+.p1{
+    font-size: 1rem;
+}
+.p7{
+    text-align: center;
+    font-size: 1.8rem ;
+    font-style: italic;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    text-decoration: underline;
+}
+.p4{
+    display: flex;
+    background-color: white;
+}
+.p4 img{
+    border-radius: 0.5rem;
+    border: 2rem;
+    border-color: black;
+}
+
